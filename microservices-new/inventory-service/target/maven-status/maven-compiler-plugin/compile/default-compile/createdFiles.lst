@@ -1,0 +1,5 @@
+com\horizon\orderservice\repository\InventoryRepository.class
+com\horizon\orderservice\model\Inventory.class
+com\horizon\orderservice\InventotoryServiceApplication.class
+com\horizon\orderservice\service\InventoryService.class
+com\horizon\orderservice\controller\InventoryController.class

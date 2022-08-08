@@ -1,0 +1,8 @@
+com\horizon\orderservice\service\OrderService.class
+com\horizon\orderservice\controller\OrderController.class
+com\horizon\orderservice\model\OrderLineItems.class
+com\horizon\orderservice\model\Order.class
+com\horizon\orderservice\OrderServiceApplication.class
+com\horizon\orderservice\dto\OrderRequest.class
+com\horizon\orderservice\dto\OrderLineItemsDto.class
+com\horizon\orderservice\repository\OrderRepository.class

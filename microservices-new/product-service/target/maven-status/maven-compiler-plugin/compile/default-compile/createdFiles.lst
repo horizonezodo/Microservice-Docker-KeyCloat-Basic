@@ -1,0 +1,10 @@
+com\horizon\productservice\repository\ProductRepository.class
+com\horizon\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\horizon\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\horizon\productservice\service\ProductService.class
+com\horizon\productservice\dto\ProductResponse.class
+com\horizon\productservice\ProductServiceApplication.class
+com\horizon\productservice\controller\ProductController.class
+com\horizon\productservice\dto\ProductRequest.class
+com\horizon\productservice\module\Product$ProductBuilder.class
+com\horizon\productservice\module\Product.class
